@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" alt="Venkata Sai — Range Rover banner" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E00000&center=true&vCenter=true&width=700&lines=Code+is+the+engine.+AI+is+the+horsepower.e+%F0%9F%8F%81;Luxury+UX.+Off-road+engineering.;BUILD+%E2%80%A2+BREAK+%E2%80%A2+FIX+%E2%80%A2+REPEAT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E00000&center=true&vCenter=true&width=700&lines=Code+is+the+engine.+AI+is+the+horsepower.+%F0%9F%8F%81;Luxury+UX.+Off-road+engineering.;BUILD+%E2%80%A2+BREAK+%E2%80%A2+FIX+%E2%80%A2+REPEAT" alt="Typing SVG" /></a>
 
 <br>
 
@@ -201,21 +201,6 @@ timeline
 <img src="./divider.svg" width="100%" alt="">
 
 
-## 📈 GITHUB TELEMETRY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E00000&icon_color=E00000&text_color=FFFFFF" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D0D0D&ring=E00000&fire=E00000&currStreakLabel=E00000&sideLabels=FFFFFF&dates=888888&sideNums=FFFFFF" width="49%">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E00000&text_color=FFFFFF" width="49%">
-
-</div>
-
-
-<img src="./divider.svg" width="100%" alt="">
 
 
 ## 🏎️ LEETCODE — LAP TIMES
@@ -256,10 +241,10 @@ LESS TALK.  MORE BUILDS.  MORE COMMITS.  MORE MILEAGE.
 
 ### Let's take it off-road. 🏔️
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nama-venkata-sai11/?isSelfProfile=true)
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-8B0000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GB2023003573/)
-[![Email](https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Venkatsainama995.com)
 
 ```text
 ╔════════════════════════════════════════════╗
