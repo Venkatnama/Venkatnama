@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" alt="Venkata Sai — Range Rover banner" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E00000&center=true&vCenter=true&width=700&lines=Code+is+the+engine.+AI+is+the+horsepower.;0+to+deployed+in+record+time+%F0%9F%8F%81;Luxury+UX.+Off-road+engineering.;BUILD+%E2%80%A2+BREAK+%E2%80%A2+FIX+%E2%80%A2+REPEAT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E00000&center=true&vCenter=true&width=700&lines=Code+is+the+engine.+AI+is+the+horsepower.e+%F0%9F%8F%81;Luxury+UX.+Off-road+engineering.;BUILD+%E2%80%A2+BREAK+%E2%80%A2+FIX+%E2%80%A2+REPEAT" alt="Typing SVG" /></a>
 
 <br>
 
@@ -263,9 +263,9 @@ LESS TALK.  MORE BUILDS.  MORE COMMITS.  MORE MILEAGE.
 
 ```text
 ╔════════════════════════════════════════════╗
-║        VSAI // AUTOBIOGRAPHY SV            ║
+║        VSAI                                ║
 ║        ENGINEERED FOR PERFORMANCE          ║
-║        🟥 BLACK  //  RED  🟥               ║
+║        🟥 BLACK  //  RED  🟥              ║
 ╚════════════════════════════════════════════╝
 ```
 
