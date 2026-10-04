@@ -6,9 +6,10 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Venkatnama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/nama-venkata-sai11/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=E00000)](https://leetcode.com/u/GB2023003573/)
+[![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:venkatsainama995@gmail.com)
 
 </div>
 
@@ -201,8 +202,6 @@ timeline
 <img src="./divider.svg" width="100%" alt="">
 
 
-
-
 ## 🏎️ LEETCODE — LAP TIMES
 
 <div align="center">
@@ -225,7 +224,7 @@ timeline
 LESS TALK.  MORE BUILDS.  MORE COMMITS.  MORE MILEAGE.
 ```
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake">
 
 </div>
 
@@ -241,10 +240,10 @@ LESS TALK.  MORE BUILDS.  MORE COMMITS.  MORE MILEAGE.
 
 ### Let's take it off-road. 🏔️
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nama-venkata-sai11/?isSelfProfile=true)
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nama-venkata-sai11/)
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkatnama)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-8B0000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GB2023003573/)
-[![Email](https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Venkatsainama995.com)
+[![Email](https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatsainama995@gmail.com)
 
 ```text
 ╔════════════════════════════════════════════╗
