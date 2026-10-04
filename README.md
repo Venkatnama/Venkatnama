@@ -21,7 +21,7 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║            RANGE ROVER · VSAI EDITION · v2026            ║
+║                          VSAI EDITION · v2026            ║
 ╠══════════════════════════════════════════════════════════╣
 ║  DRIVER        : Venkata Sai                             ║
 ║  TRIM          : AI / ML + FULL STACK                    ║
