@@ -249,7 +249,7 @@ LESS TALK.  MORE BUILDS.  MORE COMMITS.  MORE MILEAGE.
 ╔════════════════════════════════════════════╗
 ║        VSAI                                ║
 ║        ENGINEERED FOR PERFORMANCE          ║
-║        🟥 BLACK  //  RED  🟥              ║
+║                                            ║
 ╚════════════════════════════════════════════╝
 ```
 
